@@ -2,12 +2,15 @@
 Der normale Prefix ist -.
 Benutze -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können. 
 Features:
+
 ▪Moderation Commands (Coming soon)
     ▪Tempmute
     ▪Tempban
+    
 ▪Fun
     •Gifs
     ▪remindme
+    
 ▪Information
     •Server Info Command
 
