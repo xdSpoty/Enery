@@ -13,4 +13,3 @@ Features:
 
 99% Online. 24/7 gehostet.
 Füge Enery zu deinem Server hinzu und schreibe -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können.
-sss\naaa
