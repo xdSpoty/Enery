@@ -1,7 +1,7 @@
 # EneryBot
-Der normale Prefix ist -.
+Der normale Prefix ist -.\n
 Benutze -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können. 
-Features:
+Features:\n
 ▪Moderation Commands (Coming soon)
     ▪Tempmute
     ▪Tempban
