@@ -1,7 +1,7 @@
 # EneryBot
-Der normale Prefix ist -.\n
+Der normale Prefix ist -.
 Benutze -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können. 
-Features:\n
+Features:
 ▪Moderation Commands (Coming soon)
     ▪Tempmute
     ▪Tempban
@@ -13,3 +13,4 @@ Features:\n
 
 99% Online. 24/7 gehostet.
 Füge Enery zu deinem Server hinzu und schreibe -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können.
+sss\naaa
