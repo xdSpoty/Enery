@@ -1,18 +1,31 @@
 # EneryBot
-Der normale Prefix ist -.
-Benutze -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können. 
-Features:
+The default prefix is -. Use -help to get help.
 
-▪Moderation Commands (Coming soon)
-    ▪Tempmute
-    ▪Tempban
-    
-▪Fun
-    •Gifs
-    ▪remindme
-    
-▪Information
-    •Server Info Command
 
-99% Online. 24/7 gehostet.
-Füge Enery zu deinem Server hinzu und schreibe -help um eine kleine Übersicht an Infos sehen zu können und -commands um alle Commands sehen zu können.
+**Features:**
+
+
+- Fun
+
+
+     - Random Anime Gifs
+    
+    
+     - remindme
+    
+- Information
+
+
+     - First nested list itemUser Info Commands
+    
+    
+     - First nested list itemUser Info Commands
+    
+    
+
+- 99% uptime. Hosted 24/7
+- (Coming soon) Moderation Commands
+- (Coming soon) Random Cat & Dog Images
+- (Coming soon) Music function
+
+Invite Enery to your server and write -commands to get a list of commands.
