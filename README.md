@@ -16,10 +16,10 @@ The default prefix is -. Use -help to get help.
 - Information
 
 
-     - First nested list itemUser Info Commands
+     - User Info Commands
     
     
-     - First nested list itemUser Info Commands
+     - User Info Commands
     
     
 
