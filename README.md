@@ -8,6 +8,36 @@ The default prefix is -. Use -help to get help.
 **Features:**
 
 
+- Information
+
+
+     - -help: displays help for the bot.
+    
+    
+     - -info: Displays help for the bot.
+     
+
+     - -changelog: Displays the changelog.
+
+
+     - -commands: Displays all commands.
+    
+
+     - -userinfo: Shows information about the respective account.
+     
+     
+     - -serverinfo: Displays information about the respective server.
+    
+    
+     - -weather: Displays the weather for specific locations.     
+
+
+     - -ping: Shows the ping from the bot and the API.
+     
+     
+     - -uptime: Displays the online time from the bot.
+     
+     
 - Fun
 
 
@@ -31,37 +61,14 @@ The default prefix is -. Use -help to get help.
      
      - -neko: Sent a neko picture/gif.
      
+
+     - -avatar: Shows the avatar from a specific user.
+     
      
      - -remindme: Reminds you, like a alarm clock.
      
      
-- Information
 
-
-     - -help: displays help for the bot.
-    
-    
-     - -info: Displays help for the bot.
-     
-     
-     - -commands: Displays all commands.
-    
-    
-     - -weather: Displays the weather for specific locations.
-    
-
-     - -userinfo: Shows information about the respective account.
-     
-     
-     - -serverinfo: Displays information about the respective server.
-     
-     
-     - -ping: Shows the ping from the bot and the API.
-     
-     
-     - -uptime: Displays the online time from the bot.
-     
-     
 - Music (in development)
 
 
