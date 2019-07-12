@@ -97,5 +97,3 @@ Invite Enery to your server and write -commands to get a list of commands.
 
 # Support Server
 https://discord.gg/cYHtYYv
-
-<iframe width="350" height="500" src="https://discordapp.com/widget?id=546815143837827081&amp;theme=dark" frameborder="0" allowtransparency="true"></iframe>
