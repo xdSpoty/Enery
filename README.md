@@ -7,7 +7,7 @@
 [![Bots for Discord](https://botsfordiscord.com/api/bot/567361492287094784/widget)](https://botsfordiscord.com/bots/567361492287094784)
 
 
-[![Enery](https://bots.ondiscord.xyz/bots/567361492287094784/embed)](https://bots.ondiscord.xyz/bots/567361492287094784)
+[![Enery](https://bots.ondiscord.xyz/bots/567361492287094784/embed?theme=dark&showGuilds=true)](https://bots.ondiscord.xyz/bots/567361492287094784)
 
 
 
@@ -107,7 +107,7 @@ The default prefix is -. Use -help to get help.
      
      
 - 99% uptime. Hosted 24/7
-[![Discord Bots](https://discordbots.org/api/widget/status/567361492287094784.svg?noavatar=true)](https://discordbots.org/bot/567361492287094784) [![Discord Bots](https://botlist.space/bot/567361492287094784/badge?property=uptime.1&style=flat-square&color=green)
+[![Discord Bots](https://discordbots.org/api/widget/status/567361492287094784.svg?noavatar=true)](https://discordbots.org/bot/567361492287094784) [![Bots For Discord Uptime](https://botlist.space/bot/567361492287094784/badge?property=uptime.1&style=flat-square&color=green)
 
 
 - (Coming soon) Moderation commands
