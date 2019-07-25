@@ -87,6 +87,15 @@ The default prefix is -. Use -help to get help.
      - -skip: Skips music from the music queue.
      
      
+     - -pause: Pause the music.
+     
+     
+     - -resume: Lets paused continue to play.
+     
+     
+     - -volume: Adjusts the volume of music.
+     
+     
 - 99% uptime. Hosted 24/7
 [![Discord Bots](https://discordbots.org/api/widget/status/567361492287094784.svg?noavatar=true)](https://discordbots.org/bot/567361492287094784)
 
