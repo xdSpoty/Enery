@@ -10,7 +10,6 @@
 [![Enery](https://bots.ondiscord.xyz/bots/567361492287094784/embed?theme=dark&showGuilds=true)](https://bots.ondiscord.xyz/bots/567361492287094784)
 
 
-
 # EneryBot
 The default prefix is -. Use -help to get help.
 
@@ -68,6 +67,36 @@ The default prefix is -. Use -help to get help.
      
      - -kiss: Sent a kiss gif.
      
+
+     - -baka: Sent a baka gif.
+     
+     
+     - -poke: Sent a poke gif.
+     
+     
+     - -8ball: Sent a 8ball picture.
+     
+     
+     - -lizard: Sent a lizard picture.
+     
+     
+     - -goose: Sent a goose picture/gif.
+     
+     
+     - -smug: Sent a smug gif.
+     
+     
+     - -feed: "Sent a feed gif.
+     
+     
+     - -wallpaper: Sent a wallpaper.
+     
+     
+     - -dog: Sent a dog picture.
+     
+     
+     - -cat: Sent a cat picture/gif.
+     
      
      - -neko: Sent a neko picture/gif.
      
@@ -107,7 +136,7 @@ The default prefix is -. Use -help to get help.
      
      
 - 99% uptime. Hosted 24/7
-[![Discord Bots](https://discordbots.org/api/widget/status/567361492287094784.svg?noavatar=true)](https://discordbots.org/bot/567361492287094784) [![Bots For Discord Uptime](https://botlist.space/bot/567361492287094784/badge?property=uptime.1&style=flat-square&color=green)
+[![Discord Bots](https://discordbots.org/api/widget/status/567361492287094784.svg?noavatar=true)](https://discordbots.org/bot/567361492287094784)
 
 
 - (Coming soon) Moderation commands
