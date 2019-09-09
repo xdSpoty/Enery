@@ -144,4 +144,4 @@ The default prefix is -. Use -help to get help.
 Invite Enery to your server and write -commands to get a list of commands.
 
 # Support Server
-[![](https://discordapp.com/api/guilds/546815143837827081/embed.png?style=banner2)](https://discord.gg/cYHtYYv)
+[![](https://discordapp.com/api/guilds/546815143837827081/embed.png?style=banner2)](https://www.enerybot.de/support)
